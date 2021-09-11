@@ -15,8 +15,6 @@
 - [CSS3 selectors Cheat Sheet](https://mainak.vercel.app/blog/css3-selectors-cheat-sheet-6dk) -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
 ## Tech Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -31,23 +29,23 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> 
-  <img alt="Markdown" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  <img alt="Markdown" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="ReactRouter" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="ReactRouter" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=Mhizta-Mammut&show_icons=true&theme=gotham" alt="DawnMD" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mhizta-mammut&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=Mhizta-Mammut&show_icons=true&theme=gotham" alt="Mhizta-Mammut" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mhizta-mammut&theme=dark" alt="Mhizta-Mammut" width="45%" >
 
 
 
