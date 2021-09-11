@@ -1,9 +1,9 @@
 # Hi there. I am Hamisu Muhammad. Welcome to my Profile!!!
 
-- 🔭 I am currently student, will be graduated on 2021.
+- 🔭 I am graduate, currently serving my fatherland.
 - 🤔 Knowledgeable in: React, CSS, JavaScript, Redux, PHP, Python
-- 🌱 Currently experimenting with: Next.JS, TailwindCSS
-- 💬 Ask me about: JavaScript, React, CSS.
+- 🌱 Currently experimenting with: Next.JS, MongoDB, TailwindCSS and Laravel
+- 💬 Ask me about: JavaScript, Next.JS, CSS and Laravel.
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: <a href="mailto:mhizta.mammut@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/muhammad-hamisu/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
@@ -31,8 +31,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" /> 
+  <img alt="Markdown" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
   <img alt="Markdown" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
